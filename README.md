@@ -23,3 +23,8 @@ street segments that are classified as snow emergency routes. The snow
 emergency routes shapefile/geojson is built by filtering the
 [street centerline layer](https://github.com/CityOfPhiladelphia/phl-open-geodata/tree/master/street_centerline)
 to include only those rows where the `seg_id` is contained in this list.
+
+Thanks to [Mark Head](https://github.com/mheadd) for the inspriration, [Dave Walk](https://github.com/davewalk), [Ben Balter](https://github.com/benbalter), and
+[Andy Mehos](http://www.linkedin.com/pub/andy-mehos/6b/343/928) for
+the data, and [Azavea](http://www.azavea.com) for the reasearch and
+development time.
